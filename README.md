@@ -22,4 +22,3 @@ More specifically, it covers fundamental concepts and techniques for designing a
 
 ## 📬 Contact
 - **💌 Email:** 1410hhd@gmail.com
-- **🔗 LinkedIn:** https://www.linkedin.com/in/hohduong/
